@@ -1,6 +1,6 @@
 #!/bin/bash
 
-YOUR_TOKEN="xxx"
+YOUR_TOKEN="replace your key"
 
 for I in "${@}";
 do
