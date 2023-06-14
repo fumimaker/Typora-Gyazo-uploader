@@ -1,2 +1,3 @@
-# Typora-Gyazo-uploader
-TyporaのオンラインアップロードでGyazoを実行する
+# windows
+Command `wsl ~/typora_gyazo/typoragyazo.sh`
+
