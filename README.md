@@ -1,6 +1,12 @@
 # Typora Gyazo uploader
 
-# usage
+## requirement
+
+- Linux on WSL2 on Windows
+
+本当はシェルスクリプトが動けば何でもOKなのでLinuxやMacでも動きます。しかし、このシェルスクリプトではWSL on Windows環境を想定してパスの変換されてるのでこのままだと動きません。
+
+## usage
 
 - WSLで`git clone https://github.com/fumimaker/Typora-Gyazo-uploader.git`
 - TyporaのImage upload settingのimage uploaderをcustom commandに設定し、以下のコマンドを入力
@@ -13,9 +19,5 @@
 
 	
 
-# requirement
 
-- Windows (WSLが動くこと)
-
-本当はシェルスクリプトが動けば何でもOKなのでLinuxやMacでも動きます。しかし、このシェルスクリプトではWSL on Windows環境を想定して書いてあるのでこのままだと動きません。(このスクリプトでは対応してないのでいつか・・・プルリクくれたら嬉しいです)
 
